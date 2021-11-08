@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.navbar-expand-lg .navbar-collapse {
+  justify-content: flex-end !important;
+  align-items: center;
+}
+.signupForm {
+  margin: auto;
+  margin-top: 2rem;
+  max-width: 480px;
+  box-shadow: 2px 8px 16px 4px rgba(0, 0, 0, 0.2);
+  /* border: 1px solid gray; */
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
